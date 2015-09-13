@@ -1,7 +1,7 @@
-def getNames():
+﻿def getNames():
     names = ['Christopher', 'Susan', 'Danny']
     newName = input('Enter last guest: ')
-    names.append(newName)
+    names.append(newName)    
     return names
 
 def printNames(names):

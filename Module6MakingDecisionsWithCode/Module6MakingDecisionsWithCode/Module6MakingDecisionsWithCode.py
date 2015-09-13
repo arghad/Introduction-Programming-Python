@@ -1,4 +1,4 @@
-#meanwhile earlier in the day
+﻿#meanwhile earlier in the day
 bestTeam = "senators"
 
 #if statements with strings
@@ -18,4 +18,5 @@ if deposit > 100 :
 #complex code here...
 if freeToaster :
     print("enjoy your toaster")
-print("Have a nice day!")
+else :
+    print("Have a nice day!")
